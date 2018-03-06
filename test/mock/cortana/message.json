@@ -1,0 +1,21 @@
+{
+  "type": "message",
+  "id": "test",
+  "timestamp": "2016-10-19T20:17:52.2891902Z",
+  "serviceUrl": "https://localhost/apis",
+  "channelId": "test",
+  "from": {
+    "id": "test",
+    "name": "user's name"
+  },
+  "conversation": {
+    "id": "test",
+    "name": "conversation's name"
+  },
+  "recipient": {
+    "id": "test",
+    "name": "bot's name"
+  },
+  "text": "Haircut on Saturday",
+  "textFormat": "plain"
+}

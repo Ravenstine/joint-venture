@@ -1,0 +1,20 @@
+{
+  "name": "joint-venture",
+  "version": "1.0.0",
+  "description": "A minimal library for building responses to multiple voice-activated assitant platforms, including Alexa, Google Assistant, Cortana, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/nyc/bin/nyc.js node_modules/mocha/bin/mocha --recursive"
+  },
+  "author": "Ten Bitcomb",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1",
+    "nyc": "^11.4.1"
+  },
+  "dependencies": {
+    "keypather": "^3.0.0",
+    "ssml-validator": "^0.1.0"
+  }
+}

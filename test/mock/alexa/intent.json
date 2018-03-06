@@ -1,0 +1,25 @@
+{
+  "session": {
+    "sessionId": "SessionId.test",
+    "application": {
+      "applicationId": "amzn1.ask.skill.test"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.test"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.test",
+    "locale": "en-US",
+    "timestamp": "2017-07-27T01:02:25Z",
+    "intent": {
+      "name": "FoobarIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
+
